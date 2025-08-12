@@ -1,5 +1,3 @@
-Dataset [here](https://www.kaggle.com/datasets/vedanthbaliga/bangalorehouseprices)
-
 # 🏠 Bangalore House Price Prediction
 
 This project predicts the **average house price in Bangalore** based on user inputs such as:
