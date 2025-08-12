@@ -27,7 +27,7 @@ The dataset used in this project can be found here:
 ## 📷 Screenshots
 
 ### Example 1
-![Example 1](https://github.com/anup2003D/BHP/blob/main/assets/BHPss1.png)
+![Example 1](https://github.com/anup2003D/BHP/blob/main/BHPss1.png)
 
 **Input:**
 Area: 1200 sqft
@@ -42,7 +42,7 @@ Estimated Price: ₹ 73.68 Lakh
 ---
 
 ### Example 2
-![Example 2](https://github.com/anup2003D/BHP/blob/main/assets/BHPss2.png)
+![Example 2](https://github.com/anup2003D/BHP/blob/main/BHPss2.png)
 
 **Input:**
 Area: 1600 sqft
